@@ -3,7 +3,9 @@
 **Date: December 15, 2025**
 
 ## Overview
-Simulates a 6-axis robot arm moving plates between lab devices in an automated workcell. This project demonstrates the concepts I'll use at my J&J co-op for building transport networks between automation systems.
+Simulates a 6-axis robot arm moving plates between lab devices in an automated workcell. This project demonstrates the concepts I will use at my J&J co-op for building transport networks between automation systems.
+
+I created this simulator to explore how automation coordinates multiple lab devices efficiently and safely. It allows me to practice controlling robots, tracking plates, and ensuring every step in a workflow is precise and traceable. By modeling real-world constraints, I gained insight into how robots can increase throughput and reduce errors, preparing me for the work I will do at J&J.
 
 ## What It Does
 - Robot picks plates from storage
